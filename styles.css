@@ -98,7 +98,19 @@
   margin-left: 50%;
 
 }
-.social-images:hover {
-  color: #7d73fc;
-  border-color: brown;
+.social-img-fa:hover {
+  background-color: cadetblue;
+
+}
+.social-img-m:hover {
+  background-color: cadetblue;
+
+}
+.social-img-thumbup:hover {
+  background-color: cadetblue;
+
+}
+.social-img-twitter:hover {
+  background-color: cadetblue;
+
 }
