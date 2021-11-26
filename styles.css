@@ -13,7 +13,6 @@
 }
 .app-header {
   display: flex;
-  border: 5px solid goldenrod;
 }
 .logo {
   display: flex;
@@ -33,18 +32,45 @@
 .primary-content {
   display: flex;
   justify-content: center;
-  border: 5px solid goldenrod;
   color: #7d73fc;
 }
 .secondry-content {
   display: flex;
   justify-content: center;
-  border: 5px solid goldenrod;
   color: #edecff;
 }
 .simple-content {
   display: flex;
   justify-content: center;
-  border: 5px solid goldenrod;
   color: #c8c8d4;
+  width: 50%;
+  height: 50%;
+  padding-left: 30%;
+}
+.divisor {
+  display: flex;
+  justify-content: center;
+}
+.tech-panal {
+  display: flex;
+  justify-content: center;
+  color: #f5f5ff;
+  margin-bottom: 60px;
+}
+.lang-panal-head {
+  display: flex;
+  justify-content: center;
+}
+.frame-panal-head {
+  display: flex;
+  justify-content: center;
+}
+.skill-panal-head {
+  display: flex;
+  justify-content: center;
+}
+.divisor-bottom {
+  display: flex;
+  justify-content: center;
+
 }
