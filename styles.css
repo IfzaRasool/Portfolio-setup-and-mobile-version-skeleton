@@ -55,7 +55,10 @@
   display: flex;
   justify-content: center;
   color: #f5f5ff;
-  margin-bottom: 60px;
+  margin-top: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
+  margin-left: 500px;
 }
 .lang-panal-head {
   display: flex;
@@ -72,5 +75,30 @@
 .divisor-bottom {
   display: flex;
   justify-content: center;
+}
+.social-images {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.social-img-thumbup {
+  padding-right: 10px;
+}
+.social-img-m {
+  padding-right: 10px;
+}
+.social-img-twitter {
+  padding-right: 10px;
+}
+.social-img-fa {
+  padding-right: 10px;
+}
+.ellipse-image {
+  display: flex;
+  margin-left: 50%;
 
+}
+.social-images:hover {
+  color: #7d73fc;
+  border-color: brown;
 }
