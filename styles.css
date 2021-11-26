@@ -76,7 +76,6 @@
   display: flex;
   justify-content: center;
 }
-<<<<<<< HEAD
 .social-images {
   display: flex;
   justify-content: center;
@@ -97,23 +96,16 @@
 .ellipse-image {
   display: flex;
   margin-left: 50%;
-
 }
 .social-img-fa:hover {
   background-color: cadetblue;
-
 }
 .social-img-m:hover {
   background-color: cadetblue;
-
 }
 .social-img-thumbup:hover {
   background-color: cadetblue;
-
 }
 .social-img-twitter:hover {
   background-color: cadetblue;
-
 }
-=======
->>>>>>> 90b7f47e3fbec8a620b89d09d41aee766acab110
