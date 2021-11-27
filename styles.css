@@ -298,6 +298,7 @@ li {
   order: 0;
   flex-grow: 0;
   margin: 90px;
+  padding-top: 30px;
 }
 
 .social-media-item-thumbup {
