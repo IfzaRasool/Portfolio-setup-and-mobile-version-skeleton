@@ -1,7 +1,7 @@
 {
   "name": "portfolio-setup-and-mobile-version-skeleton",
   "version": "1.0.0",
-  "description": "",
+  "description": "In this project we just make a mobile version skeleton .simple template that i make using figma UI tool.figma tool is used for easily create project template skeleton.here we use just two languages HTML and CSS with proper semantic rules.\r # Installaion:\r Linters\r npm\r webhint\r stylelintrc\r visual studio code/option",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
