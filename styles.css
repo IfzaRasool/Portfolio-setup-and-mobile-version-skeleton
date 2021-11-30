@@ -21,6 +21,7 @@
   font-size: 18px;
   position: absolute;
   padding-left: 15px;
+  text-decoration: none;
 }
 
 .nav-bar {
@@ -427,6 +428,7 @@ li {
   justify-content: space-between;
   flex-direction: row;
   padding-top: 10px;
+  padding-left: 2px;
 }
 
 .button {
